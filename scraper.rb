@@ -35,7 +35,7 @@ trucks[0..5].each do |truck|
   end
 end
 
-# serialize trucks to yaml
+# serialize trucks
 file = File.open("data/trucks_#{Time.new.strftime('%Y%m%d')}.json", 'w')
 file.write trucks.to_json
 file.close
