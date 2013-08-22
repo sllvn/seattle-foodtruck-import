@@ -19,7 +19,7 @@ end.map do |tr|
 end
 
 # scrape individual pages
-trucks[0..5].each do |truck|
+trucks.each do |truck|
   next unless truck[:url][0..3] == 'http'
   truck[:schedule] = {}
   puts "scraping truck: #{truck[:name]}"
