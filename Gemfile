@@ -6,4 +6,5 @@ gem 'nokogiri'
 gem 'json'
 gem 'sanitize'
 gem 'pry'
+gem 'pry-rescue'
 
