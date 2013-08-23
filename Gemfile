@@ -5,6 +5,7 @@ gem 'faraday'
 gem 'nokogiri'
 gem 'json'
 gem 'sanitize'
+gem 'google_places'
 gem 'pry'
 gem 'pry-rescue'
 

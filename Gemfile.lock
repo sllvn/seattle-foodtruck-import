@@ -4,10 +4,17 @@ GEM
     coderay (1.0.9)
     faraday (0.8.8)
       multipart-post (~> 1.2.0)
+    google_places (0.18.0)
+      httparty
+    httparty (0.11.0)
+      multi_json (~> 1.0)
+      multi_xml (>= 0.5.2)
     interception (0.3)
     json (1.7.7)
     method_source (0.8.2)
     mini_portile (0.5.1)
+    multi_json (1.7.9)
+    multi_xml (0.5.5)
     multipart-post (1.2.0)
     nokogiri (1.6.0)
       mini_portile (~> 0.5.0)
@@ -27,6 +34,7 @@ PLATFORMS
 
 DEPENDENCIES
   faraday
+  google_places
   json
   nokogiri
   pry

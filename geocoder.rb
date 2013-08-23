@@ -1,7 +1,8 @@
 require 'json'
 require 'pry'
+require 'google_places'
 
-require_relative './location_cleaner'
+require_relative './lib/location_cleaner'
 
 trucks = JSON.parse(File.read('data/trucks_20130822.json'))
 
@@ -15,9 +16,17 @@ cleaned = locations.map do |location|
 end
 
 # geocode all the unique locations, reporting errors if found
-cleaned.each do |location|
+errors = []
+cleaned[0..20].each_with_index do |location, index|
   # TODO: actual geocoding
-  location[:latlng] = { lat: '40.7', lng: '-120' }
+  begin
+    geocoded = GoogleGeocoder.encode(location[:location])
+    location[:latlng] = { lat: geocoded[:lat], lng: geocoded[:lng] }
+    location[:cleaned_address] = geocoded[:formatted_address]
+  rescue BadNumberOfResults
+    puts "error geocoding: #{location[:location]}"
+    errors << index
+  end
 end
 
 # map geocoded latlng back to truck schedules
