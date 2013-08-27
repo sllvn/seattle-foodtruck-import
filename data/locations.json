@@ -1,0 +1,1148 @@
+[
+  {
+    "original": "Queen Anne 101 Elliott Ave. W, PI Building, 11 am. – 2 pm.",
+    "location": "Queen Anne 101 Elliott Ave. W, PI Building",
+    "cleaned": "101 Elliott Ave W #120 Seattle, WA 98119",
+    "time": "11 am. – 2 pm."
+  },
+  {
+    "original": "South Lake Union Harrison and Boren Ave N., SLU Pod, 11 am. – 2 pm.",
+    "location": "South Lake Union Harrison and Boren Ave N., SLU Pod",
+    Harrison St & Boren Ave N Seattle, WA 98109
+    "time": "11 am. – 2 pm."
+  },
+  {
+    "original": "Pioneer Square Pioneer Square Park  (by Underground Tour) 100 Yesler Way, 11 am. – 6 pm.",
+    "location": "Pioneer Square Pioneer Square Park  (by Underground Tour) 100 Yesler Way",
+    608 1st Ave Seattle, WA 98104
+    "time": "11 am. – 6 pm."
+  },
+  {
+    "original": "West Seattle The parking lot of the West Seattle Produce Market, Fauntleroy Way SW and SW Alaska St, 10 am. – 8 pm.",
+    "location": "West Seattle The parking lot of the West Seattle Produce Market, Fauntleroy Way SW and SW Alaska St",
+    4722 Fauntleroy Way SW Seattle, WA 98126
+    "time": "10 am. – 8 pm."
+  },
+  {
+    "original": "Pacific 136 Stewart Rd SE, 10 am. – 2 pm.",
+    "location": "Pacific 136 Stewart Rd SE",
+    136 Stewart Rd SE
+    Pacific, WA 98047
+    "time": "10 am. – 2 pm."
+  },
+  {
+    "original": "Issaquah Corner of E. Lake Sammamish Pkwy and SE 62nd St., Across from Home Depot, 11 am. – 2 pm.",
+    "location": "Issaquah Corner of E. Lake Sammamish Pkwy and SE 62nd St., Across from Home Depot",
+    East Lake Sammamish Pkwy SE & SE 62nd St
+    Issaquah, WA 98027
+    "time": "11 am. – 2 pm."
+  },
+  {
+    "original": "Des Moines Des Moines Waterfront Market, 10 am. – 3 pm.",
+    "location": "Des Moines Des Moines Waterfront Market",
+    22307 Dock Ave S
+    Des Moines, WA 98198
+    "time": "10 am. – 3 pm."
+  },
+  {
+    "original": "Greenwood Greenwood Ave &amp; 84th, Rosewood Guitar Parking, 4:30 pm. – 9 pm.",
+    "location": "Greenwood Greenwood Ave &amp; 84th, Rosewood Guitar Parking",
+    8402 Greenwood Ave N
+    Seattle, WA 98103
+    "time": "4:30 pm. – 9 pm."
+  },
+  {
+    "original": "Greenwood Greenwood Ave &amp; 84th, Rosewood Guitar Parking, 11 am. – 2 pm.",
+    "location": "Greenwood Greenwood Ave &amp; 84th, Rosewood Guitar Parking",
+8402 Greenwood Ave N
+Seattle, WA 98103
+    "time": "11 am. – 2 pm."
+  },
+  {
+    "original": "Greenwood Greenwood Ave &amp; 84th, Rosewood Guitar Parking, 5 pm. – 10 pm.",
+    "location": "Greenwood Greenwood Ave &amp; 84th, Rosewood Guitar Parking",
+    8402 Greenwood Ave N
+    Seattle, WA 98103
+    "time": "5 pm. – 10 pm."
+  },
+  {
+    "original": "Greenwood Greenwood Ave &amp; 84th, Rosewood Guitar Parking, noon – 9 pm.",
+    "location": "Greenwood Greenwood Ave &amp; 84th, Rosewood Guitar Parking",
+    8402 Greenwood Ave N
+    Seattle, WA 98103
+    "time": "noon – 9 pm."
+  },
+  {
+    "original": "Bellevue 156th Ave NE &amp; NE 8th St, Crossroads Farmers Market, noon – 6:30 pm.",
+    "location": "Bellevue 156th Ave NE &amp; NE 8th St, Crossroads Farmers Market",
+    NE 8th St & 156th Ave NE
+    Bellevue, WA 98008
+    "time": "noon – 6:30 pm."
+  },
+  {
+    "original": "Bellevue 11225 SE 6th St, Bellevue Lincoln Plaza, 11 am. – 2 pm.",
+    "location": "Bellevue 11225 SE 6th St, Bellevue Lincoln Plaza",
+    11225 SE 6th St
+    Bellevue, WA 98004
+    "time": "11 am. – 2 pm."
+  },
+  {
+    "original": "Downtown Seattle 6th &amp; Pike, 10 am. – 2 pm.",
+    "location": "Downtown Seattle 6th &amp; Pike",
+    Pike St & 6th Ave
+    Seattle, WA 98101
+    "time": "10 am. – 2 pm."
+  },
+  {
+    "original": "Downtown seattle 2nd &amp; Pike, 11 am. – 2 pm.",
+    "location": "Downtown seattle 2nd &amp; Pike",
+    2nd Ave & Pike St
+    Seattle, WA 98101
+    "time": "11 am. – 2 pm."
+  },
+  {
+    "original": "Magnolia Magnolia Farmers Market, W McGraw St at 33rd Ave W, 10 am. – 2 pm.",
+    "location": "Magnolia Magnolia Farmers Market, W McGraw St at 33rd Ave W",
+    33rd Ave W & W McGraw St
+    Seattle, WA 98199
+    "time": "10 am. – 2 pm."
+  },
+  {
+    "original": "SoDo 2401 Utah Ave. S., Starbucks HQ, 11 am. – 2 pm.",
+    "location": "SoDo 2401 Utah Ave. S., Starbucks HQ",
+    2401 Utah Ave S
+    Seattle, WA 98134
+    "time": "11 am. – 2 pm."
+  },
+  {
+    "original": "Ballard 907 NW Ballard Way, Trupanion Insurance, 11 am. – 2 pm.",
+    "location": "Ballard 907 NW Ballard Way, Trupanion Insurance",
+    907 NW Ballard Way
+    Seattle, WA 98107
+    "time": "11 am. – 2 pm."
+  },
+  {
+    "original": "Ballard 1406 Northwest 53rd Street, Reuben’s Brews, 5 pm. – 8 pm.",
+    "location": "Ballard 1406 Northwest 53rd Street, Reuben’s Brews",
+    1406 NW 53rd St
+    Seattle, WA 98107
+    "time": "5 pm. – 8 pm."
+  },
+  {
+    "original": "Ballard 907 NW Ballard Way, Trupanion, 11 am. – 2 pm.",
+    "location": "Ballard 907 NW Ballard Way, Trupanion",
+    907 NW Ballard Way
+    Seattle, WA 98107
+    "time": "11 am. – 2 pm."
+  },
+  {
+    "original": "Downtown Seattle 5th &amp; Union, 11 am. – 2 pm.",
+    "location": "Downtown Seattle 5th &amp; Union",
+    5th Ave & Union St
+    Seattle, WA 98101
+    "time": "11 am. – 2 pm."
+  },
+  {
+    "original": "Downtown Seattle 5th &amp; Pike, 11 am. – 2 pm.",
+    "location": "Downtown Seattle 5th &amp; Pike",
+    5th Ave & Pike St
+    Seattle, WA 98101
+    "time": "11 am. – 2 pm."
+  },
+  {
+    "original": "Downtown Seattle 5th Ave &amp; Union, 11 am. – 2 pm.",
+    "location": "Downtown Seattle 5th Ave &amp; Union",
+    5th Ave & Union St
+    Seattle, WA 98101
+    "time": "11 am. – 2 pm."
+  },
+  {
+    "original": "Queen Anne 101 Elliott Ave. W, PI Building, 11:30 am. – 2 pm.",
+    "location": "Queen Anne 101 Elliott Ave. W, PI Building",
+    101 Elliott Ave
+    Seattle, WA 98121
+    "time": "11:30 am. – 2 pm."
+  },
+  {
+    "original": "Downtown Seattle 5th &amp; Pike,",
+    "location": "Downtown Seattle 5th &amp; Pike,",
+    5th Ave & Pike St
+    Seattle, WA 98101
+    "time": null
+  },
+  {
+    "original": "Downtown Seattle 5th and Union (on Union), 11 am. – 2 pm.",
+    "location": "Downtown Seattle 5th and Union (on Union)",
+    5th Ave & Union St
+    Seattle, WA 98101
+    "time": "11 am. – 2 pm."
+  },
+  {
+    "original": "South Lake Union Westlake and Harrison, on Harrison, 11 am. – 2 pm.",
+    "location": "South Lake Union Westlake and Harrison, on Harrison",
+    Westlake Ave N & Harrison St
+    Seattle, WA 98109
+    "time": "11 am. – 2 pm."
+  },
+  {
+    "original": "Queen Anne 101 Elliott Ave W, PI Building, 11:30 am. – 2pm.",
+    "location": "Queen Anne 101 Elliott Ave W, PI Building",
+    101 Elliott Ave
+    Seattle, WA 98121
+    "time": "11:30 am. – 2pm."
+  },
+  {
+    "original": "SoDo 2401 Utah Ave S, Starbucks HQ, 11:30 am. – 2 pm.",
+    "location": "SoDo 2401 Utah Ave S, Starbucks HQ",
+    2401 Utah Ave S
+    Seattle, WA 98134
+    "time": "11:30 am. – 2 pm."
+  },
+  {
+    "original": "South Lake Union 2121 8th Avenue, Toyota of Seattle, 11 am. – 2 pm.",
+    "location": "South Lake Union 2121 8th Avenue, Toyota of Seattle",
+    2121 8th Ave
+    Seattle, WA 98121
+    "time": "11 am. – 2 pm."
+  },
+  {
+    "original": "*Not at the Fremont Market every week. Check Event listings for variations.",
+    "location": "*Not at the Fremont Market every week. Check Event listings for variations.",
+    "time": null
+  },
+  {
+    "original": "Greenwood Chuck’s Hop Shop, 656 NW 85th St, 4 pm. – 9 pm.",
+    "location": "Greenwood Chuck’s Hop Shop, 656 NW 85th St",
+    656 NW 85th St
+    Chuck's 85th St. Market
+    Seattle, WA 98117
+    "time": "4 pm. – 9 pm."
+  },
+  {
+    "original": "Interbay 3 W Nickerson St, Shell Gas Station, 10 am. – 4 pm.",
+    "location": "Interbay 3 W Nickerson St, Shell Gas Station",
+    3 W Nickerson St
+    Seattle Pacific University
+    Seattle, WA 98119
+    "time": "10 am. – 4 pm."
+  },
+  {
+    "original": "Ballard 5449 Ballard Ave NW, BalMar, 11 pm. – 2 am.",
+    "location": "Ballard 5449 Ballard Ave NW, BalMar",
+    5449 Ballard Ave NW
+    Seattle, WA 98107
+    "time": "11 pm. – 2 am."
+  },
+  {
+    "original": "Ballard between Vernon Place NW and 22nd Avenue NW, Ballard Farmers Market, 11 am. – 3 pm.",
+    "location": "Ballard between Vernon Place NW and 22nd Avenue NW, Ballard Farmers Market",
+    5345 Ballard Ave NW
+    Seattle, WA 98107
+    "time": "11 am. – 3 pm."
+  },
+  {
+    "original": "South Lake Union Boren Ave N and Republican St, 11 am. – 2 pm.",
+    "location": "South Lake Union Boren Ave N and Republican St",
+    Republican St & Boren Ave N
+    Seattle, WA 98109
+    "time": "11 am. – 2 pm."
+  },
+  {
+    "original": "Downtown Seattle 2nd &amp; Pike, 10 am. – 10 pm.",
+    "location": "Downtown Seattle 2nd &amp; Pike",
+    2nd Ave & Pike St
+    Seattle, WA 98101
+    "time": "10 am. – 10 pm."
+  },
+  {
+    "original": "Downtown Seattle 2nd &amp; Pike, 10 am. – 11 pm.",
+    "location": "Downtown Seattle 2nd &amp; Pike",
+    2nd Ave & Pike St
+    Seattle, WA 98101
+    "time": "10 am. – 11 pm."
+  },
+  {
+    "original": "Downtown Seattle 2nd &amp; Pike, 10 am. – 6:30 pm.",
+    "location": "Downtown Seattle 2nd &amp; Pike",
+    2nd Ave & Pike St
+    Seattle, WA 98101
+    "time": "10 am. – 6:30 pm."
+  },
+  {
+    "original": "SoDo 1021 Occidental Ave S, 9 am. – 6:30 pm. (hours may vary)",
+    "location": "SoDo 1021 Occidental Ave S",
+    1021 Occidental Ave S
+    Seattle, WA 98104
+    "time": "9 am. – 6:30 pm. (hours may vary)"
+  },
+  {
+    "original": "SoDo 1021 Occidental Ave S, 10 am. – 6 pm.",
+    "location": "SoDo 1021 Occidental Ave S",
+    1021 Occidental Ave S
+    Seattle, WA 98104
+    "time": "10 am. – 6 pm."
+  },
+  {
+    "original": "SoDo 1021 Occidental Ave S, 10 am. – 10 pm.",
+    "location": "SoDo 1021 Occidental Ave S",
+    1021 Occidental Ave S
+    Seattle, WA 98104
+    "time": "10 am. – 10 pm."
+  },
+  {
+    "original": "Beacon Hill corner lot of the Historic El Centro de La Raza accross the street from the Beacon Hill Link Rail Train Station, 9 am. – 6 pm.",
+    "location": "Beacon Hill corner lot of the Historic El Centro de La Raza accross the street from the Beacon Hill Link Rail Train Station",
+    Beacon Ave S. & S. McClellan St
+    Seattle, Washington 98144
+    "time": "9 am. – 6 pm."
+  },
+  {
+    "original": "Bellevue 3600 136th Pl SE # 250, Benaroya HQ , 11 am. – 2 pm.",
+    "location": "Bellevue 3600 136th Pl SE # 250, Benaroya HQ ",
+    3600 136th Pl SE #250
+    Bellevue, WA 98006
+    "time": "11 am. – 2 pm."
+  },
+  {
+    "original": "Ballard 907 NW Ballard Way, Trupanion, 11 am. – late",
+    "location": "Ballard 907 NW Ballard Way, Trupanion",
+    907 NW Ballard Way
+    Seattle, WA 98107
+    "time": "11 am. – late"
+  },
+  {
+    "original": "Greenwood 656 NW 85th St, Chuck’s Hop Shop, 11 am. – 2 pm.",
+    "location": "Greenwood 656 NW 85th St, Chuck’s Hop Shop",
+    656 NW 85th St
+    Chuck's 85th St. Market
+    Seattle, WA 98117
+    "time": "11 am. – 2 pm."
+  },
+  {
+    "original": "Ballard 1550 NW 49th St, Hilliards Brewing, 5 pm. – 9 pm.",
+    "location": "Ballard 1550 NW 49th St, Hilliards Brewing",
+    1550 NW 49th St
+    Seattle, WA 98107
+    "time": "5 pm. – 9 pm."
+  },
+  {
+    "original": "Queen Anne 101 Elliott Ave W, PI Building, 11 am. – 2 pm.",
+    "location": "Queen Anne 101 Elliott Ave W, PI Building",
+    101 Elliott Ave
+    Seattle, WA 98121
+    "time": "11 am. – 2 pm."
+  },
+  {
+    "original": "Maple Valley Circle K, 11:30 am. – 3 pm.",
+    "location": "Maple Valley Circle K",
+    17624 SE 272nd St
+    Covington, WA 98042
+    ???
+    "time": "11:30 am. – 3 pm."
+  },
+  {
+    "original": "Bellevue 11120 &amp; 11130 NE 33rd Place, BelKirk, 11 am. – 2 pm.",
+    "location": "Bellevue 11120 &amp; 11130 NE 33rd Place, BelKirk",
+    11120 NE 33rd Pl
+    Bellevue, WA 98004
+    "time": "11 am. – 2 pm."
+  },
+  {
+    "original": "Renton 618 Park Ave N, Boeing, 11 am. – 1 pm.",
+    "location": "Renton 618 Park Ave N, Boeing",
+    618 Park Ave N
+    Renton, WA 98057
+    "time": "11 am. – 1 pm."
+  },
+  {
+    "original": "Maple Valley Circle K, 11:30 am. – 5:30 pm.",
+    "location": "Maple Valley Circle K",
+    17624 SE 272nd St
+    Covington, WA 98042
+    ???
+    "time": "11:30 am. – 5:30 pm."
+  },
+  {
+    "original": "Maple Valley Circle K, 11 am. – 5:30 pm.",
+    "location": "Maple Valley Circle K",
+    17624 SE 272nd St
+    Covington, WA 98042
+    ???
+    "time": "11 am. – 5:30 pm."
+  },
+  {
+    "original": "Greenwood Chuck’s Hop Shop, 656 NW 85th St, 11 am – 2 pm.",
+    "location": "Greenwood Chuck’s Hop Shop, 656 NW 85th St",
+    656 NW 85th St
+    Chuck's 85th St. Market
+    Seattle, WA 98117
+    "time": "11 am – 2 pm."
+  },
+  {
+    "original": "Edmonds Edmonds Museum Summer Market, Public Safety parking lot at 5th and Bell, 9 am. – 2 pm.",
+    "location": "Edmonds Edmonds Museum Summer Market, Public Safety parking lot at 5th and Bell",
+    Bell St & 5th Ave N
+    Edmonds, WA 98020
+    "time": "9 am. – 2 pm."
+  },
+  {
+    "original": "Ballard 907 Ballard Way NW, 11 am. – 1 pm.",
+    "location": "Ballard 907 Ballard Way NW",
+    907 NW Ballard Way
+    Seattle, WA 98107
+    "time": "11 am. – 1 pm."
+  },
+  {
+    "original": "Bellevue 620 106th NE, 11 am. – 1 pm.",
+    "location": "Bellevue 620 106th NE",
+    620 106th Ave NE
+    Bellevue, WA 98004
+    "time": "11 am. – 1 pm."
+  },
+  {
+    "original": "Fremont 66 N 35th St, 11 am. – 10 pm.",
+    "location": "Fremont 66 N 35th St",
+    66 N 35th St
+    Seattle, WA 98103
+    "time": "11 am. – 10 pm."
+  },
+  {
+    "original": "Fremont 66 N 35th St, 11 am. – 11 pm.",
+    "location": "Fremont 66 N 35th St",
+    66 N 35th St
+    Seattle, WA 98103
+    "time": "11 am. – 11 pm."
+  },
+  {
+    "original": "Fremont 66 N 35th St, 11 am. – 4 am.",
+    "location": "Fremont 66 N 35th St",
+    66 N 35th St
+    Seattle, WA 98103
+    "time": "11 am. – 4 am."
+  },
+  {
+    "original": "Renton 440 Rainer Ave S, McLendons Hardware, 10:30 am. – 4 pm.",
+    "location": "Renton 440 Rainer Ave S, McLendons Hardware",
+    440 Rainier Ave S
+    Renton, WA 98057
+    "time": "10:30 am. – 4 pm."
+  },
+  {
+    "original": "Bellevue 1475 120th Ave NE, Clearwire, 11 am. – 2 pm.",
+    "location": "Bellevue 1475 120th Ave NE, Clearwire",
+    1475 120th Ave NE
+    Bellevue, WA 98005
+    "time": "11 am. – 2 pm."
+  },
+  {
+    "original": "Georgetown Pacific Market Center, 6100 4th Ave S, 11 am. – 2 pm.",
+    "location": "Georgetown Pacific Market Center, 6100 4th Ave S",
+    6100 4th Ave S
+    Seattle, WA 98108
+    "time": "11 am. – 2 pm."
+  },
+  {
+    "original": "Downtown Seattle between Spring and Madison on 4th, Seattle Library, 11 am. – 1:45 pm.",
+    "location": "Downtown Seattle between Spring and Madison on 4th, Seattle Library",
+    4th Ave & Spring St
+    Seattle, WA 98164
+    "time": "11 am. – 1:45 pm."
+  },
+  {
+    "original": "Bellevue 1717 Bellevue Way NE, Bellevue Farmers Market, 3 pm. – 7 pm.",
+    "location": "Bellevue 1717 Bellevue Way NE, Bellevue Farmers Market",
+    1717 Bellevue Way NE
+    Bellevue, WA 98004
+    "time": "3 pm. – 7 pm."
+  },
+  {
+    "original": "Bellevue Coinstar, 11 am. – 2 pm.",
+    "location": "Bellevue Coinstar",
+    ???
+    "time": "11 am. – 2 pm."
+  },
+  {
+    "original": "Ballard 5401 17th ave NW (just off of Market), 11 am. – 9 pm.",
+    "location": "Ballard 5401 17th ave NW (just off of Market)",
+    5401 17th Ave NW
+    Seattle, WA 98107
+    "time": "11 am. – 9 pm."
+  },
+  {
+    "original": "Renton 6th &amp; Park, 11 am. – 2 pm.",
+    "location": "Renton 6th &amp; Park",
+    Park Ave N & N 6th St
+    Renton, WA 98057
+    "time": "11 am. – 2 pm."
+  },
+  {
+    "original": "South Lake Union Corner of Terry and Republican by North Eastern University, 11 am. – 2 pm.",
+    "location": "South Lake Union Corner of Terry and Republican by North Eastern University",
+    Republican St & Terry Ave N
+    Seattle, WA 98109
+    "time": "11 am. – 2 pm."
+  },
+  {
+    "original": "Ballard 5401 17th ave NW (just off of Market), 11 am. – 8 pm.",
+    "location": "Ballard 5401 17th ave NW (just off of Market)",
+    5401 17th Ave NW
+    Seattle, WA 98107
+    "time": "11 am. – 8 pm."
+  },
+  {
+    "original": "5 pm. – 8 pm. Mead and Ranier Ave S, Spinnaker Bay Brewing,",
+    "location": "",
+    Rainier Ave S & S Mead St
+    Seattle, WA 98118
+    "time": "5 pm. – 8 pm."
+  },
+  {
+    "original": "Mercer Island Mercer Island Farmers Market, 10 am. – 3 pm.",
+    "location": "Mercer Island Mercer Island Farmers Market",
+    Mercerdale Park
+    Mercer Island, WA 98040
+    "time": "10 am. – 3 pm."
+  },
+  {
+    "original": "Downtown Seattle 2nd &amp; Pike, 11 am. – 2 pm.",
+    "location": "Downtown Seattle 2nd &amp; Pike",
+    2nd Ave & Pike St
+    Seattle, WA 98101
+    "time": "11 am. – 2 pm."
+  },
+  {
+    "original": "Georgetown 5825 Airport Way S, 11 am. – 3 pm.",
+    "location": "Georgetown 5825 Airport Way S",
+    5825 Airport Way S
+    Seattle, WA 98108
+    "time": "11 am. – 3 pm."
+  },
+  {
+    "original": "Edmonds 4th &amp; Dayton, 11 am. – 7 pm.",
+    "location": "Edmonds 4th &amp; Dayton",
+    Dayton St & 4th Ave S
+    Edmonds, WA 98020
+    "time": "11 am. – 7 pm."
+  },
+  {
+    "original": "Edmonds American Brewing Co., 5 pm. – 8 pm.",
+    "location": "Edmonds American Brewing Co.",
+    Warehouse 102
+    180 W Dayton St
+    Edmonds, WA 98020
+    "time": "5 pm. – 8 pm."
+  },
+  {
+    "original": "South Lake Union 400 Westlake Ave N,  in front of the Firestone, 11 am. – 2 pm.",
+    "location": "South Lake Union 400 Westlake Ave N,  in front of the Firestone",
+    400 Westlake Ave N
+    Seattle, WA 98109
+    "time": "11 am. – 2 pm."
+  },
+  {
+    "original": "Everett 128th and Hwy 99, Home Depot parking lot, 11 am. – 4 pm.",
+    "location": "Everett 128th and Hwy 99, Home Depot parking lot",
+    11915 Washington 99
+    Everett, WA 98204
+    "time": "11 am. – 4 pm."
+  },
+  {
+    "original": "Georgetown 6100 4th Ave S, Pacific Market Center,",
+    "location": "Georgetown 6100 4th Ave S, Pacific Market Center,",
+    6100 4th Ave S
+    Seattle, WA 98108
+    "time": null
+  },
+  {
+    "original": "Kirkland Inglewood QFC plaza at the top if Juanita Dr., unknown",
+    "location": "Kirkland Inglewood QFC plaza at the top if Juanita Dr., unknown",
+    14130 Juanita Dr NE
+    Bothell, WA 98011
+    ???
+    "time": null
+  },
+  {
+    "original": "South Lake Union NW Corner of Republican and Boren, 11 am. – 2 pm.",
+    "location": "South Lake Union NW Corner of Republican and Boren",
+    "time": "11 am. – 2 pm."
+  },
+  {
+    "original": "SoDo 2401 Utah Ave S, Starbucks HQ, 11 am. – 2 pm.",
+    "location": "SoDo 2401 Utah Ave S, Starbucks HQ",
+    2401 Utah Ave S
+    Seattle, WA 98134
+    "time": "11 am. – 2 pm."
+  },
+  {
+    "original": "Capitol Hill Farmers Market, Broadway Ave E &amp; E Pine St, at Seattle Central Community College, 11 am. – 3 pm.",
+    "location": "Capitol Hill Farmers Market, Broadway Ave E &amp; E Pine St, at Seattle Central Community College",
+    Broadway & E Pine St
+    Seattle, WA 98122
+    "time": "11 am. – 3 pm."
+  },
+  {
+    "original": "South Lake Union Terry and Republican, 11 am. – 2 pm.",
+    "location": "South Lake Union Terry and Republican",
+    Republican St & Terry Ave N
+    Seattle, WA 98109
+    "time": "11 am. – 2 pm."
+  },
+  {
+    "original": "Greenwood 656 NW 85th St, Chuck’s Hop Shop, 5 pm. – 9 pm.",
+    "location": "Greenwood 656 NW 85th St, Chuck’s Hop Shop",
+    656 NW 85th St
+    Chuck's 85th St. Market
+    Seattle, WA 98117
+    "time": "5 pm. – 9 pm."
+  },
+  {
+    "original": "South Lake Union 970 Denny Way, Ducky’s Furniture, 11 am. – 2 pm.",
+    "location": "South Lake Union 970 Denny Way, Ducky’s Furniture",
+    970 Denny Way
+    Seattle, WA 98109
+    "time": "11 am. – 2 pm."
+  },
+  {
+    "original": "Bellevue 1829 130th Ave NE, 8 am. – 8 pm.",
+    "location": "Bellevue 1829 130th Ave NE",
+    1829 130th Ave NE
+    Bellevue, WA 98005
+    "time": "8 am. – 8 pm."
+  },
+  {
+    "original": "Bellevue 1829 130th Ave NE, 8 am. – 9 pm.",
+    "location": "Bellevue 1829 130th Ave NE",
+    1829 130th Ave NE
+    Bellevue, WA 98005
+    "time": "8 am. – 9 pm."
+  },
+  {
+    "original": "Ballard Ballard Farmers Market, 11 am. – 3 pm.",
+    "location": "Ballard Ballard Farmers Market",
+    5345 Ballard Ave NW
+    Seattle, WA 98107
+    "time": "11 am. – 3 pm."
+  },
+  {
+    "original": "Tacoma Tacoma Broadway Farmers Market, 11 am. – 3 pm.",
+    "location": "Tacoma Tacoma Broadway Farmers Market",
+    950 Broadway
+    Tacoma, WA 98402
+    "time": "11 am. – 3 pm."
+  },
+  {
+    "original": "Federal Way Home Depot on 352nd, noon – 5 pm.",
+    "location": "Federal Way Home Depot on 352nd",
+    1715 S 352nd St
+    Federal Way, WA 98003
+    "time": "noon – 5 pm."
+  },
+  {
+    "original": "Federal Way Home Depot on 352nd, noon – 4 pm.",
+    "location": "Federal Way Home Depot on 352nd",
+    1715 S 352nd St
+    Federal Way, WA 98003
+    "time": "noon – 4 pm."
+  },
+  {
+    "original": "South Lake Union 309 Pontius Ave N, Cascade People’s Center, 11 am. – 2 pm.",
+    "location": "South Lake Union 309 Pontius Ave N, Cascade People’s Center",
+    309 Pontius Ave N
+    Seattle, WA 98109
+    "time": "11 am. – 2 pm."
+  },
+  {
+    "original": "Queen Anne 401 Elliott Ave W, F5 Networks, 11 am. – 2 pm.",
+    "location": "Queen Anne 401 Elliott Ave W, F5 Networks",
+    401 Elliott Ave
+    Seattle, WA 98121
+    "time": "11 am. – 2 pm."
+  },
+  {
+    "original": "International District 825 5th Ave S, 11 am. – 2 pm.",
+    "location": "International District 825 5th Ave S",
+    825 5th Ave S
+    Seattle, WA 98104
+    "time": "11 am. – 2 pm."
+  },
+  {
+    "original": "Columbia City Rainier Ave S &amp; Angeline, 11 am. – 2 pm.",
+    "location": "Columbia City Rainier Ave S &amp; Angeline",
+    Rainier Ave S & S Angeline St
+    Seattle, WA 98118
+    "time": "11 am. – 2 pm."
+  },
+  {
+    "original": "Downtown Seattle 6th &amp; Pike, Nike Town, 11 am. – 2 pm.",
+    "location": "Downtown Seattle 6th &amp; Pike, Nike Town",
+    Pike St & 6th Ave
+    Seattle, WA 98101
+    "time": "11 am. – 2 pm."
+  },
+  {
+    "original": "South Lake Union 2118 8th Ave, 11 am. – 2 pm.",
+    "location": "South Lake Union 2118 8th Ave",
+    2118 8th Ave
+    Seattle, WA 98121
+    "time": "11 am. – 2 pm."
+  },
+  {
+    "original": "Max/Min’s schedule is highly volitile – they may not be there. Be warned!",
+    "location": "Max/Min’s schedule is highly volitile – they may not be there. Be warned!",
+    "time": null
+  },
+  {
+    "original": "Issaquah Exit 15 I-90 Issaquah, Issaquah Ford, 11 am. – 1:30 pm.",
+    "location": "Issaquah Exit 15 I-90 Issaquah, Issaquah Ford",
+    1500 18th Ave NW
+    Issaquah, WA 98027
+    "time": "11 am. – 1:30 pm."
+  },
+  {
+    "original": "Tukwila 14800 Interurban S, America’s Best Value Inn &amp; Suites, 11 am. – 1:30 pm.",
+    "location": "Tukwila 14800 Interurban S, America’s Best Value Inn &amp; Suites",
+    14800 Interurban Ave S
+    Tukwila, Washington 98168
+    "time": "11 am. – 1:30 pm."
+  },
+  {
+    "original": "Capitol Hill Pine &amp; Melrose, 11 am. – 6 pm.",
+    "location": "Capitol Hill Pine &amp; Melrose",
+    Pine St & Melrose Ave
+    Seattle, WA 98122
+    "time": "11 am. – 6 pm."
+  },
+  {
+    "original": "Capitol Hill Pine &amp; Melrose, 11 am. – 7 pm.",
+    "location": "Capitol Hill Pine &amp; Melrose",
+    Pine St & Melrose Ave
+    Seattle, WA 98122
+    "time": "11 am. – 7 pm."
+  },
+  {
+    "original": "Capitol Hill Pine &amp; Melrose, 11 am. – 3 am.",
+    "location": "Capitol Hill Pine &amp; Melrose",
+    Pine St & Melrose Ave
+    Seattle, WA 98122
+    "time": "11 am. – 3 am."
+  },
+  {
+    "original": "Ballard 5420 22nd Ave NW, Bergen Place, corner of Market and Leary, 11 am. – 3 pm.",
+    "location": "Ballard 5420 22nd Ave NW, Bergen Place, corner of Market and Leary",
+    5420 22nd Ave NW
+    Seattle, WA 98107
+    "time": "11 am. – 3 pm."
+  },
+  {
+    "original": "Queen Anne 101 Elliot Ave W, PI Building, noon – 2 pm.",
+    "location": "Queen Anne 101 Elliot Ave W, PI Building",
+    101 Elliott Ave
+    Seattle, WA 98121
+    "time": "noon – 2 pm."
+  },
+  {
+    "original": "Closed ,",
+    "location": "Closed ,",
+    "time": null
+  },
+  {
+    "original": "Ballard 5401 17th Ave NW, 11 am. – 7 pm.",
+    "location": "Ballard 5401 17th Ave NW",
+    5401 17th Ave NW
+    Seattle, WA 98107
+    "time": "11 am. – 7 pm."
+  },
+  {
+    "original": "SLU 309 Pontius Ave N, Cascade People’s Center, 11 am. – 2 pm.",
+    "location": "SLU 309 Pontius Ave N, Cascade People’s Center",
+    309 Pontius Ave N
+    Seattle, WA 98109
+    "time": "11 am. – 2 pm."
+  },
+  {
+    "original": "SoDo Lander S. &amp; 7th, Lander Station, 11 am. – 2 pm.",
+    "location": "SoDo Lander S. &amp; 7th, Lander Station",
+    S Lander St & 7th Ave S
+    Seattle, WA 98134
+    "time": "11 am. – 2 pm."
+  },
+  {
+    "original": "Capitol Hill 1221 E Madison St, Pony Bar, 10 pm. – 2 am.",
+    "location": "Capitol Hill 1221 E Madison St, Pony Bar",
+    1221 E Madison St
+    Seattle, WA 98122
+    "time": "10 pm. – 2 am."
+  },
+  {
+    "original": "SoDo 2401 Utah S, Starbucks HQ, noon – 2:30 pm.",
+    "location": "SoDo 2401 Utah S, Starbucks HQ",
+    2401 Utah Ave S
+    Seattle, WA 98134
+    "time": "noon – 2:30 pm."
+  },
+  {
+    "original": "SoDo 625 S Lander St, 11:30 am. – 2:15 pm.",
+    "location": "SoDo 625 S Lander St",
+    625 S Lander St
+    Seattle, WA 98134
+    "time": "11:30 am. – 2:15 pm."
+  },
+  {
+    "original": "Georgetown 6100 4th Ave S, Pacific Market Center, noon – 2:30 pm.",
+    "location": "Georgetown 6100 4th Ave S, Pacific Market Center",
+    6100 4th Ave S
+    Seattle, WA 98108
+    "time": "noon – 2:30 pm."
+  },
+  {
+    "original": "Georgetown 6100 4th Ave S, Pacific Market Center, 11 am. – 2 pm.",
+    "location": "Georgetown 6100 4th Ave S, Pacific Market Center",
+    6100 4th Ave S
+    Seattle, WA 98108
+    "time": "11 am. – 2 pm."
+  },
+  {
+    "original": "SoDo 4100 4th Ave S, Urbanata, 11 am. – 2 pm.",
+    "location": "SoDo 4100 4th Ave S, Urbanata",
+    4100 4th Ave S
+    Seattle, WA 98134
+    "time": "11 am. – 2 pm."
+  },
+  {
+    "original": "Port Orchard 1325 Loyd Parkway, Port Orchard Industrial Park, 11 am. – 3 pm.",
+    "location": "Port Orchard 1325 Loyd Parkway, Port Orchard Industrial Park",
+    1325 Lloyd Pkwy
+    Port Orchard, WA 98367
+    "time": "11 am. – 3 pm."
+  },
+  {
+    "original": "Capitol Hill 15th Ave., afternoons",
+    "location": "Capitol Hill 15th Ave.",
+    "time": "afternoons"
+  },
+  {
+    "original": "Mercer Island Mercer Island Farmers Market, 11 am. – 3 pm.",
+    "location": "Mercer Island Mercer Island Farmers Market",
+    Mercerdale Park
+    Mercer Island, WA 98040
+    "time": "11 am. – 3 pm."
+  },
+  {
+    "original": "Wallingford 210 NE 45th St, 11 am. – 11 pm.",
+    "location": "Wallingford 210 NE 45th St",
+    210 NE 45th St
+    Seattle, WA 98105
+    "time": "11 am. – 11 pm."
+  },
+  {
+    "original": "Wallingford 210 NE 45th St, 11 am. – 2:30 am.",
+    "location": "Wallingford 210 NE 45th St",
+    210 NE 45th St
+    Seattle, WA 98105
+    "time": "11 am. – 2:30 am."
+  },
+  {
+    "original": "Kirkland next door to the Central Saloon on Kirkland Ave, late night",
+    "location": "Kirkland next door to the Central Saloon on Kirkland Ave, late night",
+    124 Kirkland Ave
+    Kirkland, WA 98033
+    "time": null
+  },
+  {
+    "original": "Downtown Seattle McGraw Plaza, 11:30 am. – 2:15 pm.",
+    "location": "Downtown Seattle McGraw Plaza",
+    McGraw Square
+    Stewart St
+    Seattle, WA 98101
+    "time": "11:30 am. – 2:15 pm."
+  },
+  {
+    "original": "Tukwila Group Health Campus, 11 am. – 2 pm.",
+    "location": "Tukwila Group Health Campus",
+    12400 East Marginal Way S
+    Tukwila, WA 98168
+    "time": "11 am. – 2 pm."
+  },
+  {
+    "original": "Pioneer Square 1st and Columbia, 11 am. – 2 pm.",
+    "location": "Pioneer Square 1st and Columbia",
+    1st Ave & Columbia St
+    Seattle, WA 98104
+    "time": "11 am. – 2 pm."
+  },
+  {
+    "original": "Queen Anne 101 Elliott Ave W, PI Building, 11:30 am. – 2 pm.",
+    "location": "Queen Anne 101 Elliott Ave W, PI Building",
+    101 Elliott Ave
+    Seattle, WA 98121
+    "time": "11:30 am. – 2 pm."
+  },
+  {
+    "original": "Pioneer Square 1st and Columbia, 11 am. – 2pm.",
+    "location": "Pioneer Square 1st and Columbia",
+    1st Ave & Columbia St
+    Seattle, WA 98104
+    "time": "11 am. – 2pm."
+  },
+  {
+    "original": "Ballard 1406 NW 53rd Street, Rueben’s Brews, 4 pm. – 8 pm.",
+    "location": "Ballard 1406 NW 53rd Street, Rueben’s Brews",
+    1406 NW 53rd St
+    Seattle, WA 98107
+    "time": "4 pm. – 8 pm."
+  },
+  {
+    "original": "Ballard 1550 NW 49th St, Hilliard’s Brewery, noon – 4 pm.",
+    "location": "Ballard 1550 NW 49th St, Hilliard’s Brewery",
+    1550 NW 49th St
+    Seattle, WA 98107
+    "time": "noon – 4 pm."
+  },
+  {
+    "original": "Greenwood 656 NW 85th St., Chuck’s Hop Shop, 11 am. – 4 pm.",
+    "location": "Greenwood 656 NW 85th St., Chuck’s Hop Shop",
+    656 NW 85th St
+    Chuck's 85th St. Market
+    Seattle, WA 98117
+    "time": "11 am. – 4 pm."
+  },
+  {
+    "original": "South Lake Union 1370 Stewart, the junction of John and Stewart, across from REI, 11 am. – 2 pm.",
+    "location": "South Lake Union 1370 Stewart, the junction of John and Stewart, across from REI",
+    1370 Stewart St
+    Seattle, WA 98109
+    "time": "11 am. – 2 pm."
+  },
+  {
+    "original": "Bellevue 11911 NE 1st St, Eastridge Corporate Center (once in the parking lot, go uphill until you hit a dead end, we’ll be on the right), 11 am. – 1:30 pm.",
+    "location": "Bellevue 11911 NE 1st St, Eastridge Corporate Center (once in the parking lot, go uphill until you hit a dead end, we’ll be on the right)",
+    11911 NE 1st St
+    Bellevue, WA 98005
+    "time": "11 am. – 1:30 pm."
+  },
+  {
+    "original": "Bellevue 1475 120th Ave NE, Clearwire, 11 am. – 1:30 pm.",
+    "location": "Bellevue 1475 120th Ave NE, Clearwire",
+    1475 120th Ave NE
+    Bellevue, WA 98005
+    "time": "11 am. – 1:30 pm."
+  },
+  {
+    "original": "Pioneer Square 505 1st Ave S, on the Railroad Ave side, 11 am. – 2 pm.",
+    "location": "Pioneer Square 505 1st Ave S, on the Railroad Ave side",
+    505 1st Ave S
+    Seattle, WA 98104
+    "time": "11 am. – 2 pm."
+  },
+  {
+    "original": "Downtown Seattle 531 Stewart St, McGraw Square, 11 am. – 2 pm.",
+    "location": "Downtown Seattle 531 Stewart St, McGraw Square",
+    531 Stewart St
+    Seattle, WA 98101
+    "time": "11 am. – 2 pm."
+  },
+  {
+    "original": "Des Moines Des Moines Marina by fuel dock gangway, 11 am. – 3 pm.",
+    "location": "Des Moines Des Moines Marina by fuel dock gangway",
+    22307 Dock Ave S
+    Des Moines, WA 98198
+    "time": "11 am. – 3 pm."
+  },
+  {
+    "original": "Capitol Hill Madison side of Madison &amp; 14th, 8 am. – 2 am.",
+    "location": "Capitol Hill Madison side of Madison &amp; 14th",
+    E Madison St & 14th Ave
+    Seattle, WA 98122
+    "time": "8 am. – 2 am."
+  },
+  {
+    "original": "Capitol Hill Madison side of Madison &amp; 14th, 8 am. – 2 am",
+    "location": "Capitol Hill Madison side of Madison &amp; 14th",
+    E Madison St & 14th Ave
+    Seattle, WA 98122
+    "time": "8 am. – 2 am"
+  },
+  {
+    "original": "Capitol Hill Madison side of Madison &amp; 14th, 8 am. – 3 pm.",
+    "location": "Capitol Hill Madison side of Madison &amp; 14th",
+    E Madison St & 14th Ave
+    Seattle, WA 98122
+    "time": "8 am. – 3 pm."
+  },
+  {
+    "original": "Bellevue 106th Ave NE &amp; NE 8th St, Barnes &amp; Noble, 11 am. – 2 pm.",
+    "location": "Bellevue 106th Ave NE &amp; NE 8th St, Barnes &amp; Noble",
+    NE 8th St & 106th Ave NE
+    Bellevue, WA 98004
+    "time": "11 am. – 2 pm."
+  },
+  {
+    "original": "Queen Anne 101 Elliot Ave W, PI Building, 11 am. – 2 pm.",
+    "location": "Queen Anne 101 Elliot Ave W, PI Building",
+    101 Elliott Ave
+    Seattle, WA 98121
+    "time": "11 am. – 2 pm."
+  },
+  {
+    "original": "South Lake Union inside of South Lake Union Park by the Center for Wooden Boats, 11 am. – 3 pm.",
+    "location": "South Lake Union inside of South Lake Union Park by the Center for Wooden Boats",
+    Lake Union Park
+    South-Lake Union
+    Seattle, WA 98109
+    "time": "11 am. – 3 pm."
+  },
+  {
+    "original": "Sammamish Sammamish Farmers Market, 3 pm. – 8 pm.",
+    "location": "Sammamish Sammamish Farmers Market",
+    801 228th Ave SE
+    Sammamish, WA 98074
+    "time": "3 pm. – 8 pm."
+  },
+  {
+    "original": "Queen Anne 300 3rd Ave W (3rd and Harrison), 12:45 pm. – 1:15 pm.",
+    "location": "Queen Anne 300 3rd Ave W (3rd and Harrison)",
+    300 3rd Ave W
+    Seattle, WA 98119
+    "time": "12:45 pm. – 1:15 pm."
+  },
+  {
+    "original": "Downtown Seattle 6th &amp; Pike, in front of Niketown, 2 pm. – 6 pm.",
+    "location": "Downtown Seattle 6th &amp; Pike, in front of Niketown",
+    Pike St & 6th Ave
+    Seattle, WA 98101
+    "time": "2 pm. – 6 pm."
+  },
+  {
+    "original": "Belltown 90 Blanchard St, 11 pm. – 3 am.",
+    "location": "Belltown 90 Blanchard St",
+    90 Blanchard St
+    Seattle, WA 98121
+    "time": "11 pm. – 3 am."
+  },
+  {
+    "original": "South Lake Union Corner of Boren &amp; Harrison, 11 am. – 2 pm.",
+    "location": "South Lake Union Corner of Boren &amp; Harrison",
+    Harrison St & Boren Ave N
+    Seattle, WA 98109
+    "time": "11 am. – 2 pm."
+  },
+  {
+    "original": "Redmond 5000-5020 148th Ave NE, Redmond Woods, 11 am. – 2 pm.",
+    "location": "Redmond 5000-5020 148th Ave NE, Redmond Woods",
+    5000 148th Ave NE
+    Redmond, WA 98052
+    "time": "11 am. – 2 pm."
+  },
+  {
+    "original": "Kirkland 11430 NE 120th Street, Multiple Listing Service, 11 am. – 2 pm.",
+    "location": "Kirkland 11430 NE 120th Street, Multiple Listing Service",
+    11430 NE 120th St
+    Kirkland, WA 98034
+    "time": "11 am. – 2 pm."
+  },
+  {
+    "original": "Bellevue 1717 Bellevue Way NE, Bellevue’s Farmer’s Market at Bellevue Presbyterian Church, 3 pm. – 7 pm.",
+    "location": "Bellevue 1717 Bellevue Way NE, Bellevue’s Farmer’s Market at Bellevue Presbyterian Church",
+    1717 Bellevue Way NE
+    Bellevue, WA 98004
+    "time": "3 pm. – 7 pm."
+  },
+  {
+    "original": "Redmond 14679 NE 95th St, Black Raven Brewing, 4 pm. – 8 pm.",
+    "location": "Redmond 14679 NE 95th St, Black Raven Brewing",
+    14679 NE 95th St
+    Redmond, WA 98052
+    "time": "4 pm. – 8 pm."
+  },
+  {
+    "original": "SoDo 922 Occidental Ave S, 11 am. – 2 pm.",
+    "location": "SoDo 922 Occidental Ave S",
+    922 Occidental Ave S
+    Seattle, WA 98134
+    "time": "11 am. – 2 pm."
+  },
+  {
+    "original": "SoDo 1st Ave near Rejuvenation, 11 am. – 2 pm.",
+    "location": "SoDo 1st Ave near Rejuvenation",
+    2910 1st Ave S
+    Seattle, WA 98134
+    "time": "11 am. – 2 pm."
+  },
+  {
+    "original": "Central District Martin Luther King &amp; Union Ave, Grocery Outlet, 10 am. – 5 pm.",
+    "location": "Central District Martin Luther King &amp; Union Ave, Grocery Outlet",
+    E Union St & Martin Luther King Jr Way
+    Seattle, WA 98122
+    "time": "10 am. – 5 pm."
+  },
+  {
+    "original": "Renton 440 Rainier Ave S, McLendon Hardware, 7 am. – 4 pm.",
+    "location": "Renton 440 Rainier Ave S, McLendon Hardware",
+    440 Rainier Ave S
+    McLendon Hardware
+    Renton, WA 98057
+    "time": "7 am. – 4 pm."
+  },
+  {
+    "original": "Bellevue 424 Bellevue Way, 11 am. – 8 pm.",
+    "location": "Bellevue 424 Bellevue Way",
+    ??? two options
+    "time": "11 am. – 8 pm."
+  },
+  {
+    "original": "Bellevue 620 106th Ave NE, 11 am. – 2 pm.",
+    "location": "Bellevue 620 106th Ave NE",
+    620 106th Ave NE
+    Bellevue, WA 98004
+    "time": "11 am. – 2 pm."
+  },
+  {
+    "original": "Columbia City Mead and Ranier Ave S, Spinnaker Bay Brewing, 5 pm. – 8 pm.",
+    "location": "Columbia City Mead and Ranier Ave S, Spinnaker Bay Brewing",
+    Rainier Ave S & S Mead St
+    Seattle, WA 98118
+    "time": "5 pm. – 8 pm."
+  },
+  {
+    "original": "Greenwood 656 NW 85th St, Chuck’s Hop Shop, 3 pm. – 9 pm.",
+    "location": "Greenwood 656 NW 85th St, Chuck’s Hop Shop",
+    656 NW 85th St
+    Chuck's 85th St. Market
+    Seattle, WA 98117
+    "time": "3 pm. – 9 pm."
+  },
+  {
+    "original": "South Lake Union 425 Terry Ave N, south side of RepublicanSt, next to Northeastern University, 11 am. – 1:30 pm.",
+    "location": "South Lake Union 425 Terry Ave N, south side of RepublicanSt, next to Northeastern University",
+    425 Terry Ave N
+    Seattle, WA 98109
+    "time": "11 am. – 1:30 pm."
+  },
+  {
+    "original": "Kent 6811 S 204th St, ThyssenKrupp Aerospace (in the parking lot behind the Atrium Building), 11 am. – 2 pm.",
+    "location": "Kent 6811 S 204th St, ThyssenKrupp Aerospace (in the parking lot behind the Atrium Building)",
+    6811 S 204th St
+    Kent, WA 98032
+    "time": "11 am. – 2 pm."
+  },
+  {
+    "original": "South Lake Union 425 Terry Ave N, south side of RepublicanSt, next to Northeastern University, 11 am. – 2 pm.",
+    "location": "South Lake Union 425 Terry Ave N, south side of RepublicanSt, next to Northeastern University",
+    425 Terry Ave N
+    Seattle, WA 98109
+    "time": "11 am. – 2 pm."
+  },
+  {
+    "original": "SoDo 6th &amp; Lander, 11 am. – 2 pm.",
+    "location": "SoDo 6th &amp; Lander",
+    S Lander St & 6th Ave S
+    Seattle, WA 98134
+    "time": "11 am. – 2 pm."
+  },
+  {
+    "original": "West Seattle Delridge, the “big flag building” near the bridge ramp, 11 am. – 2 pm.",
+    "location": "West Seattle Delridge, the “big flag building” near the bridge ramp",
+    ???
+    "time": "11 am. – 2 pm."
+  }
+]
