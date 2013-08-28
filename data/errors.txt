@@ -1,0 +1,35 @@
+missing schedule for: >
+bad location lookup for: Caravan Crêpes, thursday
+missing schedule for: Cocina Mexicana
+missing schedule for: El Rey Del Taco
+missing schedule for: El Rey Del Taco II
+missing schedule for: El Taco Loco
+missing schedule for: El Trompo Loco
+bad location lookup for: Evolution Revolution, sunday
+bad location lookup for: Ezells Express, sunday
+missing schedule for: Happy Burrito
+missing schedule for: La Pasadita
+missing schedule for: Los Potrillos
+missing schedule for: Make Me Melt
+missing schedule for: Mi Luncherita Mexicana
+missing schedule for: Muy Macho
+bad location lookup for: Philly Boys Cheesesteaks, monday
+bad location lookup for: Philly Boys Cheesesteaks, friday
+missing schedule for: Seattle Wood Fired Pizza
+missing schedule for: Taco City USA
+missing schedule for: Taco Gol
+missing schedule for: Tacos El Asadero
+missing schedule for: Tacos El Capesino
+missing schedule for: Tacos Maria/Tacos Patzcuaro
+missing schedule for: Tacqueria El Rincon
+missing schedule for: Taqueria Costa Alegre Taco Bus
+missing schedule for: Taqueria El Asadero
+missing schedule for: Taqueria El Carreton
+missing schedule for: Taqueria El Potrillo Taco Truck
+missing schedule for: Taqueria El Trompo Loco
+missing schedule for: Taqueria Guadalajara
+missing schedule for: Taqueria Guadalajara II
+missing schedule for: Taqueria La Fondita II
+missing schedule for: Taqueria Latinos II
+missing schedule for: ThaiUUp
+missing schedule for: Zen Food Truck
